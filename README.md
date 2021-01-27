@@ -1,5 +1,7 @@
 # Firebase Auth 2021
 
+<img src="https://github.com/loydkim/Flutter_Firebase_Auth_2021/blob/main/Promo_firebase_auth.gif" width="300" height="560">
+
 * Develop Environment.
 
 - Flutter SDK Version: 1.25.0-5.0
